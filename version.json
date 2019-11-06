@@ -1,0 +1,14 @@
+{
+  "vCode": 10,
+  "isForce": false,
+  "content": "新版本更新",
+  "tradeMinInterval": 20,
+  "downloadUrl": "https://MalaiO.github.io/mloDemo/build.apk",
+  "alipayQrRules": "https://qr.alipay.com/,https://d.alipay.com/,https://e.abchina.com/qrcode,https://qr.95516.com/,https://mobile.abchina.com,https://syb.allinpay.com/,https://nxt.nongxinyin.com/,https://b.cmfspay.com/",
+  "weixinQrRules": "wxp://,https://payapp.weixin.qq.com,https://e.abchina.com/qrcode,https://qr.95516.com/,https://mobile.abchina.com,https://syb.allinpay.com/,https://ipos.lakala.com/,https://nxt.nongxinyin.com/,https://b.cmfspay.com/",
+  "apiGateway": "https://myapi.paycoins.me/",
+  "adUrl": "",
+  "shortDownUrl": "",
+  "mobileRegular": "",
+  "bankList": "招商银行,浙商银行,交通银行,中信银行,中国银行,杭州银行,中国工商银行,中国建设银行,中国民生银行,中国农业银行,中国邮政储蓄银行"
+}
