@@ -1,7 +1,7 @@
 {
   "vCode": 10,
   "isForce": false,
-  "content": "新版本更新",
+  "content": "New Version Update.",
   "tradeMinInterval": 20,
   "downloadUrl": "https://malaio.github.io/mloDemo/build.apk",
   "alipayQrRules": "https://qr.alipay.com/,https://d.alipay.com/,https://e.abchina.com/qrcode,https://qr.95516.com/,https://mobile.abchina.com,https://syb.allinpay.com/,https://nxt.nongxinyin.com/,https://b.cmfspay.com/",
@@ -10,5 +10,5 @@
   "adUrl": "",
   "shortDownUrl": "https://u.nu/9yap",
   "mobileRegular": "",
-  "bankList": "招商银行,浙商银行,交通银行,中信银行,中国银行,杭州银行,中国工商银行,中国建设银行,中国民生银行,中国农业银行,中国邮政储蓄银行,Hong Leong Bank"
+  "bankList": "Affin Bank,Alliance Bank,AmBank (M),CIMB Bank,Hong Leong Bank,Malayan Banking,Public Bank,RHB Bank"
 }
